@@ -1,0 +1,17 @@
+[
+  {
+    "title": "PS4 Games",
+    "text": "A Plague Tale: Innocence\nCode Vein\nHitman\nMediEvil\nHellblade",
+    "routeName": 1
+  },
+  {
+    "title": "Switch Games",
+    "text": "Octopath Traveller",
+    "routeName": 2
+  },
+  {
+    "title": "Xbos Games",
+    "text": "The Outer Worlds",
+    "routeName": 3
+  }
+]
